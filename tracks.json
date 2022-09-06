@@ -1,0 +1,86 @@
+[
+	{
+		"id": "1",
+		"filename": "tracks/acousticbreeze.mp3",
+		"thumbnail": "tracks/thumbnails/acousticbreeze.jpg",
+		"artist": "One Zillion Collapsing Iced Koalas",
+		"title": "Acoustic breeze"
+	},
+	{
+		"id": "2",
+		"filename": "tracks/anewbeginning.mp3",
+		"thumbnail": "tracks/thumbnails/anewbeginning.jpg",
+		"artist": "Puddle of Rock",
+		"title": "A new beginning"
+	},
+	{
+		"id": "3",
+		"filename": "tracks/buddy.mp3",
+		"thumbnail": "tracks/thumbnails/buddy.jpg",
+		"artist": "The Quiet Goblins",
+		"title": "Buddy"
+	},
+	{
+		"id": "4",
+		"filename": "tracks/creativeminds.mp3",
+		"thumbnail": "tracks/thumbnails/creativeminds.jpg",
+		"artist": "New York Panic",
+		"title": "Creative Minds"
+	},
+	{
+		"id": "5",
+		"filename": "tracks/cute.mp3",
+		"thumbnail": "tracks/thumbnails/cute.jpg",
+		"artist": "Izabel Monroe",
+		"title": "Cute"
+	},
+	{
+		"id": "6",
+		"filename": "tracks/goinghigher.mp3",
+		"thumbnail": "tracks/thumbnails/goinghigher.jpg",
+		"artist": "Christina Ibarra",
+		"title": "Going Higher"
+	},
+	{
+		"id": "7",		
+		"filename": "tracks/happyrock.mp3",
+		"thumbnail": "tracks/thumbnails/happyrock.jpg",
+		"artist": "Leia Knox",
+		"title": "Happy Rock"
+	},
+	{
+		"id": "8",
+		"filename": "tracks/hey.mp3",
+		"thumbnail": "tracks/thumbnails/hey.jpg",
+		"artist": "Isra Traynor",
+		"title": "Hey"
+	},
+	{
+		"id": "9",
+		"filename": "tracks/jazzyfrenchy.mp3",
+		"thumbnail": "tracks/thumbnails/jazzyfrenchy.jpg",
+		"artist": "Au Revior Ears",
+		"title": "Jazzy Frenchy"
+	},
+	{
+		"id": "10",
+		"filename": "tracks/littleidea.mp3",
+		"thumbnail": "tracks/thumbnails/littleidea.jpg",
+		"artist": "Lynette Wonder",
+		"title": "Little Idea"
+	},
+	{
+		"id": "11",
+		"filename": "tracks/memories.mp3",
+		"thumbnail": "../tracks/thumbnails/memories.jpg",
+		"artist": "Megachord",
+		"title": "Memories"
+	},
+	{
+		"id": "12",
+		"filename": "tracks/ukulele.mp3",
+		"thumbnail": "tracks/thumbnails/ukulele.jpg",
+		"artist": "Rage Against the Chord",
+		"title": "Ukulele"
+	}
+]
